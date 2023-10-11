@@ -2,5 +2,5 @@
 Primer trabajo práctico integrador para la materia Ingenería de Datos de la Universidad Provincial de Ezeiza
 
 # Integrantes
-- Marcelo Yagger
+- Marcelo Yaggi
 - Leandro Gabriel Villalba
