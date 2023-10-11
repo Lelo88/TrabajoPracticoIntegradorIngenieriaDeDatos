@@ -1,0 +1,79 @@
+{
+  "empleados": [
+    {
+	"nombre": "Juan",
+	"apellido": "Perez",
+	"cargo": "Desarrollador",
+	"edad": 30,
+	"departamento_id": 1
+    },
+    {
+	"nombre": "Ana",
+	"apellido": "López",
+	"cargo": "Gerente",
+	"edad": 25,
+	"departamento_id": 2
+    },
+    {
+	"nombre": "Carlos",
+	"apellido": "Rodríguez",
+	"cargo": "Diseñador",
+	"edad": 25,
+	"departamento_id": 1
+    },
+    {
+	"nombre": "Federico",
+	"apellido": "Gomez",
+	"cargo": "Marketing",
+	"edad": 37,
+	"departamento_id": 1
+    }
+  ],
+  "departamento": [
+    {
+	"nombre": "Desarrollo"
+    },
+    {
+	"nombre": "Recursos Humanos"
+    },
+    {
+	"nombre": "Diseño"
+    },
+    {
+	"nombre": "Marketing"
+    }
+  ],
+  "proyectos": [
+    {
+        "nombre": "Tienda web 3D"
+    },
+    {
+        "nombre": "Seguros galicia"
+    },
+    {
+        "nombre": "Banco Credicoop"
+    }
+],
+  "tareas": [
+    {
+        "descripcion": "Desarrollar la función de inicio de sesión",
+        "proyecto_id": 1,
+        "empleado_id": 1
+    },
+    {
+        "descripcion": "Realizar la entrevista de candidato",
+        "proyecto_id": 2,
+        "empleado_id": 2
+    },
+    {
+        "descripcion": "Diseñar la interfaz de usuario",
+        "proyecto_id": 1,
+        "empleado_id": 3
+    },
+    {
+	"descripcion": "Conseguir ventas de nuevas funcionalidades",
+	"proyecto_id": 2,
+	"empleado_id": 4
+    }
+]
+}
